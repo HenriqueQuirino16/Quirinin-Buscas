@@ -6,6 +6,6 @@ Essa ferramenta, foi feita por mim, ela é um script pequeno, mais sua utilidade
 ! INSTALAÇÃO DA FERRAMENTAS !
 
 * LINUX 
-# git clone https://github.com/HenriqueQuirino16/Quirinin-Buscas
-# cd Quirinin-Buscas
-# python3 Quirinin-Buscas.py
+* git clone https://github.com/HenriqueQuirino16/Quirinin-Buscas
+* cd Quirinin-Buscas
+* python3 main.py
